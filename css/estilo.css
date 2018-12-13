@@ -1,0 +1,35 @@
+.container{
+  margin-top: 1%;
+}
+
+header{
+  width: 100%;
+  max-width: 100%;
+}
+
+#logotype{
+  float: right;
+  margin-top: 3%;
+}
+
+header hr{
+  border: 0.1em solid grey;
+  clear: both;
+}
+
+#my-jobs h1{
+  color:grey;
+  font-family: 'Roboto', sans-serif;
+}
+
+#my-jobs h3{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+
+#my-jobs p{
+  font-family: 'Roboto', sans-serif;
+}
+
+
